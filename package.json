@@ -1,0 +1,19 @@
+{
+  "name": "barcode-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsbarcode": "^3.11.6"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+  
+}
